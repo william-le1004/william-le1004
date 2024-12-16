@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently intern on FPT Software<br>🌱 I’m currently learning C#
+🔭 I’m currently intern on FPT Software<br>🌱 I’m currently learning ASP.NET
 
 
 # 💻 Tech Stack:
