@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **have experience in .NET core, Java JSP & Servlet**
+- 💬 Ask me about **.NET core**
 
 - 📫 How to reach me **kienle4456@gmail.com**
 
