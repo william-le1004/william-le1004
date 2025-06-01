@@ -16,12 +16,26 @@ I'm a Backend Developer with 1+ year of experience at FPT Software, specializing
 
 ### 💡 Core Competencies
 
-- Backend Development (.NET Core, Java)
-- System Design & Architecture
-- CI/CD Implementation
-- Cloud Computing
-- API Development
-- Database Management
+- **Backend Development**
+  - .NET Core & ASP.NET Core
+  - Java Spring Boot
+  - RESTful API Design
+  - Microservices Architecture
+- **Database & Data Management**
+  - SQL & NoSQL Databases
+  - Database Design & Optimization
+  - Data Modeling
+  - Caching Strategies
+- **DevOps & Cloud**
+  - CI/CD Pipeline Implementation
+  - Docker Containerization
+  - Cloud Services (Azure)
+  - Infrastructure as Code
+- **System Design**
+  - Scalable Architecture
+  - Message Queuing
+  - Distributed Systems
+  - Performance Optimization
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +68,24 @@ I'm a Backend Developer with 1+ year of experience at FPT Software, specializing
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### [Project Name]
+
+![Project Badge](https://img.shields.io/badge/Status-Active-success)
+![Tech Stack](https://img.shields.io/badge/Tech-.NET%20Core%20%7C%20Azure%20%7C%20SQL%20Server-blue)
+
+Brief description of the project and your key contributions. Include:
+
+- Key features implemented
+- Technologies used
+- Your role and impact
+- Link to repository or live demo
 
 </div>
 
